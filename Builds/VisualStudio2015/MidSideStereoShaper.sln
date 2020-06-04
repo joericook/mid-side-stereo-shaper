@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2015
+Project("{46024858-EE8B-E7A3-628D-590984CBB684}") = "MidSideStereoShaper", "MidSideStereoShaper.vcxproj", "{2D59370E-DFC1-DB16-2898-10DE24402B1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D59370E-DFC1-DB16-2898-10DE24402B1F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2D59370E-DFC1-DB16-2898-10DE24402B1F}.Debug|Win32.Build.0 = Debug|Win32
+		{2D59370E-DFC1-DB16-2898-10DE24402B1F}.Release|Win32.ActiveCfg = Release|Win32
+		{2D59370E-DFC1-DB16-2898-10DE24402B1F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+﻿  GUIComponent.cpp
+c:\users\joe\documents\software_programming\vst_programming\midsidestereoshaper\source\guicomponent.cpp(37): warning C4458: declaration of 'imgFaderBackground' hides class member
+  c:\users\joe\documents\software_programming\vst_programming\midsidestereoshaper\source\guicomponent.h(74): note: see declaration of 'GUIComponent::imgFaderBackground'
+c:\users\joe\documents\software_programming\vst_programming\midsidestereoshaper\source\guicomponent.cpp(38): warning C4458: declaration of 'imgFaderHandle' hides class member
+  c:\users\joe\documents\software_programming\vst_programming\midsidestereoshaper\source\guicomponent.h(75): note: see declaration of 'GUIComponent::imgFaderHandle'
+c:\users\joe\documents\software_programming\vst_programming\midsidestereoshaper\source\guicomponent.cpp(125): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\joe\documents\software_programming\vst_programming\midsidestereoshaper\source\guicomponent.cpp(131): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\joe\documents\software_programming\vst_programming\midsidestereoshaper\source\guicomponent.cpp(137): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\joe\documents\software_programming\vst_programming\midsidestereoshaper\source\guicomponent.cpp(154): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\joe\documents\software_programming\vst_programming\midsidestereoshaper\source\guicomponent.cpp(152): warning C4100: 'slider': unreferenced formal parameter
+c:\users\joe\documents\software_programming\vst_programming\midsidestereoshaper\source\guicomponent.cpp(148): warning C4100: 'height': unreferenced formal parameter
+  MidSideStereoShaper.vcxproj -> C:\Users\Joe\Documents\Software_Programming\VST_Programming\MidSideStereoShaper\Builds\VisualStudio2015\Debug\MidSideStereoShaper.dll
+  MidSideStereoShaper.vcxproj -> Debug\\MidSideStereoShaper.pdb (Full PDB)
+          1 file(s) copied.
