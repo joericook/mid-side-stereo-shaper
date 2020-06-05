@@ -1,0 +1,7 @@
+﻿  MidSideStereoShaper_Prototype.cpp
+c:\users\joe\documents\visual studio 2017\projects\midsidestereoshaper_prototype\midsidestereoshaper_prototype\midsidestereoshaper_prototype.cpp(21): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\joe\documents\visual studio 2017\projects\midsidestereoshaper_prototype\midsidestereoshaper_prototype\midsidestereoshaper_prototype.cpp(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\joe\documents\visual studio 2017\projects\midsidestereoshaper_prototype\midsidestereoshaper_prototype\midsidestereoshaper_prototype.cpp(101): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\joe\documents\visual studio 2017\projects\midsidestereoshaper_prototype\midsidestereoshaper_prototype\midsidestereoshaper_prototype.cpp(104): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MidSideStereoShaper_Prototype.vcxproj -> c:\users\joe\documents\visual studio 2017\Projects\MidSideStereoShaper_Prototype\Debug\MidSideStereoShaper_Prototype.exe
+  MidSideStereoShaper_Prototype.vcxproj -> c:\users\joe\documents\visual studio 2017\Projects\MidSideStereoShaper_Prototype\Debug\MidSideStereoShaper_Prototype.pdb (Partial PDB)
